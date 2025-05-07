@@ -18,11 +18,6 @@
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="SQLserver" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" />
-
-<!-- Subir estos íconos a tu repositorio y usar rutas locales -->
-<img align="left" alt="CapCut" width="30px" style="padding-right:10px;" src="./assets/capcut_logo.png" />
-<img align="left" alt="FL Studio" width="30px" style="padding-right:10px;" src="./assets/fl_studio_logo.png" />
-<img align="left" alt="Ableton Live" width="30px" style="padding-right:10px;" src="./assets/ableton_live_logo.svg" />
 <br>
 <br>
 <br>
